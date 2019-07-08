@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <IncludePath>C:\opencv\opencv345_Win32\include;C:\opencv\opencv345_Win32\include\opencv;C:\opencv\opencv345_Win32\include\opencv2;D:\binData\outBIN\include;D:\binData\gdal220_32\GDALBuild\include;D:\binData\gdal224\gsl24\local\include\gsl;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\opencv\opencv345_Win32\x86\vc15\lib;D:\binData\outBIN\bin;D:\binData\gdal220_32\GDALBuild\lib;D:\binData\gdal224\gsl24\local\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>C:\opencv\opencv345_Win32\x86\vc15\lib\*.lib;D:\binData\outBIN\bin\*.lib;D:\binData\gdal220_32\GDALBuild\lib\*.lib;D:\binData\gdal224\gsl24\local\lib\*.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>

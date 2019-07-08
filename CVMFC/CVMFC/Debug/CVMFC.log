@@ -1,0 +1,14 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  CVMFCView.cpp
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1057): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1654): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1655): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1987): warning C4018: “<”: 有符号/无符号不匹配
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1995): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1996): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(2059): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(2181): warning C4018: “<”: 有符号/无符号不匹配
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(2189): warning C4018: “<”: 有符号/无符号不匹配
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(2024): warning C4715: “GetContoursPic”: 不是所有的控件路径都返回值
+  CVMFC.vcxproj -> E:\ENVI图像配准\图像处理\CVMFC\CVMFC\.\Debug\CVMFC.exe

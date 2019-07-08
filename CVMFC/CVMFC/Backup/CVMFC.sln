@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CVMFC", "CVMFC.vcproj", "{12CAD3FE-9FC6-4E3E-BE62-83FA5BEC236E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CAD3FE-9FC6-4E3E-BE62-83FA5BEC236E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12CAD3FE-9FC6-4E3E-BE62-83FA5BEC236E}.Debug|Win32.Build.0 = Debug|Win32
+		{12CAD3FE-9FC6-4E3E-BE62-83FA5BEC236E}.Release|Win32.ActiveCfg = Release|Win32
+		{12CAD3FE-9FC6-4E3E-BE62-83FA5BEC236E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

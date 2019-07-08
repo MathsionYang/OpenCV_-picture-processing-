@@ -1,0 +1,31 @@
+﻿  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+e:\envi图像配准\图像处理\cvmfc\directshow\include\d3d9types.h(1389): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ChildFrm.cpp
+  CVDSCap.cpp
+  CVMFC.cpp
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfc.cpp(53): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\atlmfc\include\afxwin2.inl(1074): note: 参见“CWinApp::Enable3dControls”的声明
+  CVMFCDoc.cpp
+  CVMFCView.cpp
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1057): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1628): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1654): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1655): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1995): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(1996): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(2059): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  DLGImgMatch.cpp
+  GamaDLG.cpp
+  MainFrm.cpp
+  Processing.cpp
+  正在生成代码...
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcview.cpp(2024): warning C4715: “GetContoursPic”: 不是所有的控件路径都返回值
+e:\envi图像配准\图像处理\cvmfc\cvmfc\cvmfcdoc.cpp(80): warning C4715: “CCVMFCDoc::OnOpenDocument”: 不是所有的控件路径都返回值
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(E:\ENVI图像配准\图像处理\CVMFC\CVMFC\x64\Release\CVMFC.exe) 与 Linker 的 OutputFile 属性值(E:\ENVI图像配准\图像处理\CVMFC\CVMFC\Release\CVMFC.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+  CVMFC.vcxproj -> E:\ENVI图像配准\图像处理\CVMFC\CVMFC\x64\Release\CVMFC.exe

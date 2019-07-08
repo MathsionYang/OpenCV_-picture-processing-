@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CVMFC - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP28.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "../DirectShow/Include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/CVMFC.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\OpenCVMFC\DSCVMFC\CVMFC\CVMFC\CVMFCView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP28.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2B.tmp" with contents
+[
+cxcore.lib cv.lib ml.lib cvaux.lib highgui.lib cvcam.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/CVMFC.pdb" /machine:I386 /out:"Release/CVMFC.exe" 
+.\Release\CameraDSA.obj
+.\Release\ChildFrm.obj
+.\Release\CVDSCap.obj
+.\Release\CVMFC.obj
+.\Release\CVMFCDoc.obj
+.\Release\CVMFCView.obj
+.\Release\MainFrm.obj
+.\Release\Processing.obj
+.\Release\StdAfx.obj
+.\Release\CVMFC.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2B.tmp"
+<h3>Output Window</h3>
+Compiling...
+CVMFCView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+CVMFC.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
